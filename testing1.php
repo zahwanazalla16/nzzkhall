@@ -82,7 +82,13 @@
                                     <h3 class="font-semibold text-gray-800 mb-2">Smart Payment</h3>
                                     <p class="text-sm text-gray-600">Kalkulasi pembayaran otomatis menggunakan Weighted Sum Model (WSM)</p>
                                 </div>
-                                
+                                <div class="text-center">
+                                    <div class="text-2xl font-bold text-indigo-600 mb-2">
+                                        <i class="bi bi-people"></i>
+                                    </div>
+                                    <h3 class="font-semibold text-gray-800 mb-2">Team Collaboration</h3>
+                                    <p class="text-sm text-gray-600">Kolaborasi tim real-time dengan sistem notifikasi dan komentar</p>
+                                </div>
                             </div>
                         </div>
                     </div>
